@@ -33,7 +33,7 @@ LICENSES: List[dict] = [
     {
         "name": "ISC",
         "spdx_id": "ISC",
-        "url": "http://bit.ly/3hkKRql",
+        "url": "https://www.tldrlegal.com/license/isc-license",
         "osi_approved": True,
         "warning": False,
     },
